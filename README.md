@@ -16,4 +16,4 @@ In this project the concept of basic landing page of any random website is devel
 
 ## Project Preview:
 
-( https://ali-tahir4024.github.io/Basic-website-landing-page/).
+[Basic Website Landing Page](https://alitahir4024.github.io/Basic-website-landing-page/).
